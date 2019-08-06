@@ -1,0 +1,42 @@
+body {
+  padding-left: 8%;
+  position: fixed;
+  margin-top: 6%;
+  font-family: 'Raleway', sans-serif;
+}
+
+.intro {
+  margin-left: 0;
+  margin-right: 0;
+  padding-bottom: 20px;
+  font-size: 20px; 
+}
+
+.intro-name {
+  font-size: 80px;
+}
+.intro-bio {
+  width: 50%;
+  margin-bottom: 5px;
+}
+
+.body {
+  font-size: 20px;
+}
+.body-header {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.footer {
+  display: flex;
+  width: 18%;
+  padding-top: 20px;
+  margin-left: 0;
+  margin-right: 0;
+}
+
+.footer .btns {
+  height: 50vh;
+  width: 75vw;
+}
